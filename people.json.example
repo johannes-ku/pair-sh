@@ -1,0 +1,25 @@
+{
+    "people": {
+        "bart": {
+            "name": "Bart Simpson",
+            "email": "bart@progmatic.ee"
+        },
+        "lisa": {
+            "name": "Lisa Simpson",
+            "email": "lisa@progmatic.ee"
+        },
+        "homer": {
+            "name": "Homer Simpson",
+            "email": "homer@progmatic.ee"
+        },
+        "marge": {
+            "name": "Marge Simpson",
+            "email": "marge@progmatic.ee"
+        },
+        "maggie": {
+            "name": "Maggie Simpson",
+            "email": "maggie@progmatic.ee"
+        }
+    }
+}
+
